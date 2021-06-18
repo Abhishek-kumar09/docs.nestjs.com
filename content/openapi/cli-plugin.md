@@ -132,7 +132,7 @@ export interface PluginOptions {
   </tr>
   <tr>
     <td><code>dtoFileNameSuffix</code></td>
-    <td><code>['.dto.ts', '.entity.ts']</code></td>
+    <td><code>[".dto.ts", ".entity.ts"]</code></td>
     <td>DTO (Data Transfer Object) files suffix</td>
   </tr>
   <tr>
